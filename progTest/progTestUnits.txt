@@ -1,0 +1,10 @@
+unit ola = 15 kg;
+unit hey = 10 kg;
+
+unit tres = hey + ola;
+unit quatro = hey - ola;
+
+
+print(5);
+
+print(quatro);

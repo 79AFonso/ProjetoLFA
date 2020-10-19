@@ -1,0 +1,13 @@
+dim Corrente -> Ampere -> A;
+dim Distancia -> Metro -> m;
+//dim Distancia -> Metro -> m; //Erro
+dim Tempo -> Segundos -> s;
+
+//MiliVolt - mV » 0.0001 V; //Erro
+
+Kilometro - km » 1000 m; //isto é um comentario
+//Kilometro - km » 1000 m; //Erro
+Centimetro - cm » 0.01 m;
+Hora - h » 3600 s;
+
+//fIM

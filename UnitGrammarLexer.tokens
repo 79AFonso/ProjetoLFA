@@ -1,0 +1,17 @@
+T__0=1
+T__1=2
+T__2=3
+T__3=4
+T__4=5
+WS=6
+ID=7
+INT=8
+REAL=9
+COMMENT=10
+COMMENTMULTILINE=11
+ERROR=12
+';'=1
+'dim'=2
+'->'=3
+'-'=4
+'»'=5

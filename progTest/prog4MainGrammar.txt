@@ -1,0 +1,36 @@
+unit ola = 15 kg;
+int i = 1;
+int quarentena = 31; //comentario
+
+real peso=70;
+
+real aumentodepeso = 3;
+while(i < quarentena) {
+    peso = peso + aumentodepeso;
+    i++;
+}
+
+print(peso);
+
+/*
+  multilinha
+*/
+
+i = 1;
+peso = 70;
+for(int j = 0;j<quarentena;j++){
+    peso = peso + aumentodepeso; //comentario
+}
+
+print(peso);
+
+i = 1;
+peso = 70;
+
+do{
+    peso = peso + aumentodepeso;
+    i++;    
+}while(i < quarentena);
+
+print(peso);
+//LFA é fixe
